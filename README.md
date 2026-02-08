@@ -1,1 +1,3 @@
-I utilized NumPy and Pandas to efficiently clean, manipulate, and analyze data for model training. Once cleared, I built a logistic regression model with an accuracy of 86.80% and a neural network model with an accuracy of 87.10% using SciKit. Lastly, I visualized model performance and correlations through scatter plots using Matplotlib to interpret predictive trends.
+Efficiently clean, manipulate, and analyze data for model training using NumPy and Pandas
+Built a logistic regression model with an accuracy of 86.80% and a neural network model with an accuracy of 87.10% using SciKit
+Visualized model performance and correlations through scatter plots using Matplotlib to interpret predictive trends
